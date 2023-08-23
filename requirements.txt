@@ -1,9 +1,6 @@
  pandas
  numpy
- datetime
-
- matplotlib.pyplot 
- plotly.graph_objects
- plotly.express
+ matplotlib
+ plotly
  seaborn 
  streamlit
